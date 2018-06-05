@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset doc_version="0">
+  <A4hz>440</A4hz>
+  <get_x_frame>674</get_x_frame>
+  <get_x_beat>1</get_x_beat>
+  <multiply_setend>2</multiply_setend>
+  <mod_cycle>1</mod_cycle>
+  <mod_shift>0.0</mod_shift>
+  <mod_duty_onoff>false</mod_duty_onoff>
+  <mod_duty>50</mod_duty>
+  <mod_duty_var>0.0</mod_duty_var>
+  <mod_duty_var_frq>1.0</mod_duty_var_frq>
+  <mod_fade_cycle>0.5</mod_fade_cycle>
+  <mod_fade_shift>0.0</mod_fade_shift>
+  <mod_pd_duty_onoff>false</mod_pd_duty_onoff>
+  <mod_pd_duty>50</mod_pd_duty>
+  <mod_pd_duty_var>0.0</mod_pd_duty_var>
+  <mod_pd_duty_var_frq>1.0</mod_pd_duty_var_frq>
+  <sig>6</sig>
+  <flick_paste_check_value>true</flick_paste_check_value>
+  <redraw_mix_check_value>false</redraw_mix_check_value>  
+</preset>

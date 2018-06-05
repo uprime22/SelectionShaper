@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RenoiseScriptingTool>
+  <ApiVersion>4</ApiVersion>
+  <Id>org.uprime22.selection_shaper</Id>
+  <Version>2.5</Version>
+  <Name>Selection Shaper</Name>
+  <Author>uprime22,satobox</Author>
+  <Description>Reset the selection and make samples in Sample editor etc..
+  </Description>
+  <Category>sample</Category>
+  <Homepage></Homepage>
+</RenoiseScriptingTool>
+
