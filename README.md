@@ -1,4 +1,4 @@
-Tool for Renoise sample editor.
+The tool for Renoise sample editor.
 
 作成経緯参照:
 
@@ -11,4 +11,7 @@ Tool for Renoise sample editor.
 
 Thank You Satobox !!
 
+Danoise has improved the tool incredibly. Check it !
+
+<https://github.com/renoise/xrnx/tree/Selection-Shaper/Tools/com.renoise.SelectionShaper.xrnx>
 
